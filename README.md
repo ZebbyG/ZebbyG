@@ -9,8 +9,7 @@
 - 💬 Ask me anything. Am ready to help💯
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/zebbylion-njau-3b6a6723b/" style="text-decoration: none">My Linkedin</a>
 - 😄 Pronouns: He/him😅
-- ⚡ Fun fact: Google's name was the fruit of a spelling mistake. (Googol)
-  
+- ⚡ Fun fact: Octopuses have three hearts and blue blood!  
 <table><tr><td valign="top" width="33%">
 
 ### Backend  
