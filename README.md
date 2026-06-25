@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on growing my back-end skills. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m learning Anything Code... <b>backend</b> preferably .
 - 👯 I’m looking to collaborate on any software projects.
-- 💬 Ask me anything. Am ready to help💯
+- 💬 Ask me anything. I'm ready to help💯
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/zebbylion-njau-3b6a6723b/" style="text-decoration: none">My Linkedin</a>
 - 😄 Pronouns: He/him😅
 - ⚡ Fun fact: Octopuses have three hearts and blue blood!  
